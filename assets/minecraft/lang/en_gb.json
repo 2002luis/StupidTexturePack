@@ -42,5 +42,10 @@
   "item.minecraft.cooked_beef": "Burger",
   "item.minecraft.baked_potato": "Fries",
   "item.minecraft.golden_apple": "Gay Apple",
-  "item.minecraft.enchanted_golden_apple": "Enchanted Gay Apple"
+  "item.minecraft.enchanted_golden_apple": "Enchanted Gay Apple",
+  "block.minecraft.sweet_berry_bush": "Arabian Dorito",
+  "item.minecraft.sweet_berries": "Arabian Doritos",
+  "death.attack.sweetBerryBush": "%1$s was brutally murdered by an arabian dorito",
+  "death.attack.sweetBerryBush": "%1$s was brutally murdered by an arabian dorito whilst trying to escape %2$s",
+  "subtitles.block.sweet_berry_bush.pick_berries": "Doritos pop"
 }
