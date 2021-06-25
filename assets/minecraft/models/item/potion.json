@@ -3,8 +3,10 @@
     "textures": {
         "layer0": "item/potion_overlay",
         "layer1": "item/potion"
-    }
-	"overrides": [
-		{"predicate": {"custom_model_data":696}, "model": "item/laoganma"}
+    },
+
+    "overrides": [
+		{"predicate": {"custom_model_data":696}, "model": "item/laoganma"
+		}
 	]
 }
